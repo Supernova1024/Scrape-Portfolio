@@ -1,0 +1,23 @@
+{
+  "name": "img-scrapper",
+  "version": "1.0.0",
+  "description": "Image scrapper",
+  "main": "index.js",
+  "dependencies": {
+    "got": "^11.8.1",
+    "jsdom": "^16.4.0",
+    "readline": "^1.3.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Image",
+    "scrapper",
+    "nodejs"
+  ],
+  "author": "Roman",
+  "license": "ISC"
+}
